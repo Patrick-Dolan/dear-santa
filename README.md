@@ -1,12 +1,12 @@
-# {Application name here}
+# Dear Santa
 
-#### By _**{List of contributors}**_
+#### By _**Patrick Dolan**_
 
-#### _{Brief description of application}_
+#### _A quiz site that will help you decide what you want for Christmas._
 
-## Github Pages Link
+<!-- ## Github Pages Link
 
-[TITLE HERE Github Pages](https://patrick-dolan.github.io/PROJECT-NAME/)
+[TITLE HERE Github Pages](https://patrick-dolan.github.io/dear-santa/) -->
 
 ## Technologies Used
 
@@ -17,12 +17,12 @@
 
 ## Description
 
-{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}
+A quiz site that will help you decide what you want for Christmas.
 
 ## Setup/Installation Requirements
 
 * Download or Clone the repo down to your computer.
-* Navigate into the "PROJECT-NAME" directory you just downloaded and open it with your terminal and code editor of choice of choice.
+* Navigate into the "dear-santa" directory you just downloaded and open it with your terminal and code editor of choice of choice.
 * type "npm install" in your terminal to install dependencies.
 * type "npm run start" to launch the program.
 
@@ -33,10 +33,10 @@
 ## Contact Me
 
 Let me know if you run into any issues or have questions, ideas or concerns:
-[Author Email Here]
+dolanp1992@gmail.com
 
 ## License
 
 _MIT_
 
-Copyright (c) _date_ _author name(s)_
+Copyright (c) _2022_ _Patrick Dolan_
